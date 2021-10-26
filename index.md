@@ -1,4 +1,4 @@
-## 徐至 Zhi Xu
+## Zhi Xu
 
 ## Welcome to GitHub Pages
 
