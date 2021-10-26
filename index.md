@@ -10,7 +10,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 
 ## Project Experience  
 ### Research Project  
-<details>
+ <details>
 <summary>#### Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</summary>
 10/2020 - 06/2021  
 Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang  
