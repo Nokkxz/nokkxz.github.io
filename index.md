@@ -1,16 +1,24 @@
 # Zhi Xu
-Email 11812426@mail.sustech.edu.cn
-Github [https://github.com/Nokkxz](https://github.com/Nokkxz)
+11812426@mail.sustech.edu.cn  
+[https://github.com/Nokkxz](https://github.com/Nokkxz)  
 
 ## Education
-### Southern University of Science and Technology (09/2018 - present)
-Major:  Robotic Engineering
-Degree:	Bachelor of Engineering (Expected 06/2022)
+#### Southern University of Science and Technology
+09/2018 - present  
+Major:  Robotic Engineering  
+Degree:	Bachelor of Engineering (Expected 06/2022)  
 
 ## Project Experience
 ### Research Project
-#### Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel (10/2020 - 06/2021)
-Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang
+#### * Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel
+10/2020 - 06/2021  
+Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang  
+Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”  
+* Participated in the mechanical design of the robot.  
+* Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.  
+* [Constructed the multithreaded code framework based on C++ object-oriented programming and finite state machine.](https://github.com/Nokkxz/Mini-Nezha)  
+* [Built the simulation model of the robot in Simulink, designed a model-based LQR controller and realized trajectory, speed, tilt, squat, and jump control of the robot.](https://github.com/Nokkxz/Mini-Nezha-Control)  
+
 
 ## Welcome to GitHub Pages
 
