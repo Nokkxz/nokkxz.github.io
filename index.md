@@ -11,6 +11,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 ## Project Experience
 ### Research Project
 #### Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel
+<details>
 10/2020 - 06/2021  
 Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang  
 * Participated in the mechanical design of the robot.  
@@ -18,6 +19,7 @@ Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. 
 * Constructed the multithreaded [code framework](https://github.com/Nokkxz/Mini-Nezha) based on C++ object-oriented programming and finite state machine.  
 * Built the simulation model of the robot in Simulink, designed a [model-based LQR controller](https://github.com/Nokkxz/Mini-Nezha-Control) and realized trajectory, speed, tilt, squat, and jump control of the robot.  
 * Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”  
+</details>
 
 
 ## Welcome to GitHub Pages
