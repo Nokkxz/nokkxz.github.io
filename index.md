@@ -15,8 +15,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang  
 * Participated in the mechanical design of the robot.  
 * Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.  
-* Constructed the multithreaded [code framework] based on C++ object-oriented programming and finite state machine.(https://github.com/Nokkxz/Mini-Nezha)  
-* Built the simulation model of the robot in Simulink, designed a [model-based LQR controller] and realized trajectory, speed, tilt, squat, and jump control of the robot.(https://github.com/Nokkxz/Mini-Nezha-Control)  
+* Constructed the multithreaded [code framework](https://github.com/Nokkxz/Mini-Nezha) based on C++ object-oriented programming and finite state machine.  
+* Built the simulation model of the robot in Simulink, designed a [model-based LQR controller](https://github.com/Nokkxz/Mini-Nezha-Control) and realized trajectory, speed, tilt, squat, and jump control of the robot.  
 * Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”  
 
 
