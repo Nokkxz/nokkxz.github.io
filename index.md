@@ -22,7 +22,7 @@ Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. 
 <li>Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”</li>
 </ul>
 </details>
-
+![Mini-Nezha](https://github.com/Nokkxz/nokkxz.github.io/Pictures/Mini-Nezha.png)
 
 ## Welcome to GitHub Pages
 
