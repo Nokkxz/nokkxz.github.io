@@ -10,15 +10,17 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 
 ## Project Experience  
 ### Research Project  
- <details>
-<summary>#### Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</summary>
-10/2020 - 06/2021  
-Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang  
-* Participated in the mechanical design of the robot.  
-* Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.  
-* Constructed the multithreaded [code framework](https://github.com/Nokkxz/Mini-Nezha) based on C++ object-oriented programming and finite state machine.  
-* Built the simulation model of the robot in Simulink, designed a [model-based LQR controller](https://github.com/Nokkxz/Mini-Nezha-Control) and realized trajectory, speed, tilt, squat, and jump control of the robot.  
-* Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”  
+<details>
+<summary><b>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</b></summary>
+10/2020 - 06/2021<br>
+Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang<br>
+<br><ul>
+<li>Participated in the mechanical design of the robot.</li>
+<li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
+<li>Constructed the multithreaded <a href="https://github.com/Nokkxz/Mini-Nezha" target="_blank">code framework</a> based on C++ object-oriented programming and finite state machine.</li>
+<li>Built the simulation model of the robot in Simulink, designed a <a href="https://github.com/Nokkxz/Mini-Nezha-Control" target="_blank">model-based LQR controller</a> and realized trajectory, speed, tilt, squat, and jump control of the robot.</li>
+<li>Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”</li>
+</ul>
 </details>
 
 
