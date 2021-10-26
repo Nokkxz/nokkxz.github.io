@@ -1,4 +1,16 @@
-## Zhi Xu
+# Zhi Xu
+Email 11812426@mail.sustech.edu.cn
+Github [https://github.com/Nokkxz](https://github.com/Nokkxz)
+
+## Education
+### Southern University of Science and Technology (09/2018 - present)
+Major:  Robotic Engineering
+Degree:	Bachelor of Engineering (Expected 06/2022)
+
+## Project Experience
+### Research Project
+#### Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel (10/2020 - 06/2021)
+Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang
 
 ## Welcome to GitHub Pages
 
