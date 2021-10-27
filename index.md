@@ -48,7 +48,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Accomplished inverse kinematics and path planning of the Franka robotic arm and control of a pneumatic gripper with teammates.</li>
 </ul>
 <img src="/Pictures/WasteSorting.png" width="343" height="217"/>
-<img src="/Pictures/WasteSorting_1.png" width="245" height="172"/>
+<img src="/Pictures/WasteSorting_1.png" width="245" height="115"/>
 </details>
 
 <details>
@@ -58,8 +58,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
 </ul>
 <img src="/Pictures/Capsule.png" width="130" height="66"/>
-<img src="/Pictures/Capsule_3.png" width="130" height="80"/>
-<img src="/Pictures/Capsule_2.png" width="217" height="124"/>
+<img src="/Pictures/Capsule_2.png" width="130" height="80"/>
+<img src="/Pictures/Capsule_1.png" width="217" height="124"/>
 </details>
 
 ## Contest Experience  
