@@ -47,7 +47,7 @@ Collaborative Robot Learning Course
 </details>
 
 <details>
-<summary><strong>Pose Control of Propeller-driven Robotic Capsule Endoscope</strong></summary>
+<summary><strong>Propeller-driven Capsule Endoscope</strong></summary>
 <ul>
 <li>Built the <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">hydrodynamic model</a> of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
 <li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
