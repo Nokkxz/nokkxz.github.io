@@ -65,3 +65,52 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </details>
 
 ## Contest Experience  
+<details>
+<summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2021</strong></summary>
+<a href="https://github.com/Artinx-Algorithm-Group" target="_blank">Vision Group</a>, 
+<a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
+<ul>
+<li>Worked on vision-based armor detection algorithms based on ROS and OpenCV.</li>
+<li>1st prize in the Final Tournament (one of 16 finalist teams among over 400 teams).</li>
+<li>1st prize in the Regional Competition.</li>
+<li>1st prize in the University League Competition.</li>
+</ul>
+<img src="/Pictures/WasteSorting.png" width="258" height="163"/>
+<img src="/Pictures/WasteSorting_1.png" width="245" height="115"/>
+</details>
+
+<details>
+<summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2020</strong></summary>
+Leader of the Dart System Group, 
+<a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
+<ul>
+<li>Led a group of 4 students and achieved the mechanical design of the Dart and its Launcher.</li>
+<li>Designed and soldered the <a href="https://oshwhub.com/HALOx/missile_0" target="_blank">printed circuit board</a> (PCB) of the Dart.</li>
+<li>Realized rudder control of the Dart by PID and <a href="https://github.com/Nokkxz/RM2020-Dart" target="_blank">electric control of the Launcher</a>.</li>
+<li>Realized rapid infrared guidance by visual algorithms based on OpenCV.</li>
+<li>Programmed a <a href="https://github.com/Nokkxz/RM2020-Dart" target="_blank">ground station application</a>.</li> based on Qt, realized TCP network communication and flight data record and display.</li>
+<li>1st prize for electric control & 3rd prize for algorithm in the Online Assessment.</li>
+</ul>
+<img src="/Pictures/WasteSorting.png" width="258" height="163"/>
+<img src="/Pictures/WasteSorting_1.png" width="245" height="115"/>
+</details>
+
+<details>
+<summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2019</strong></summary>
+Electric Control Group, 
+<a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
+<ul>
+<li>Learnt mechanical design and manufacture with SolidWorks.</li>
+<li>Learnt embedded system and electric control based on STM32.</li>
+<li>3rd prize in the Regional Competition.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong><a href="https://www.comap.com/undergraduate/contests/mcm/instructions.php" target="_blank">Mathematical Contest in Modeling (MCM) </a> 2021</strong></summary>
+<a href="https://github.com/Nokkxz/2021MCM-B" target="_blank">Paper</a>
+<ul>
+<li>Modeled and solved a drones deployment problem by big data analysis, cellular automata, MTSP, nonlinear integer programming, Genetic Algorithm.</li>
+<li>Meritorious Winner (top 6.27% among 4487 teams).</li>
+</ul>
+</details>
