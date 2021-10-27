@@ -10,6 +10,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 
 ## Project Experience  
 ### Research Project  
+---
 <details>
 <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021<br>
