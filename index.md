@@ -45,6 +45,6 @@ Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. 
 <li>Realized pose and speed control of the capsule with PID and LQR controller in simulation.</li>
 </ul>
 </details>
-<img src="/Pictures/Capsule.jpg" width="196" height="100"/>
+<img src="/Pictures/Capsule.png" width="196" height="100"/>
 
 ## Contest Experience
