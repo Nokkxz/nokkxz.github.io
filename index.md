@@ -35,8 +35,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Realized localization between vessels based on OpenCV and AprilTag.</li>
 <li>Selected as the “National College Students’ Innovative Entrepreneurial Training Program”.</li>
 </ul>
-<img src="/Pictures/Vessel.jpg" width="232" height="130"/>
-<img src="/Pictures/Vessel_1.jpg" width="232" height="130"/>
+<img src="/Pictures/Vessel.png" width="232" height="130"/>
+<img src="/Pictures/Vessel_1.png" width="216" height="151"/>
 </details>
 
 ### Course Project  
@@ -47,8 +47,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Deployed and trained YOLOv5 object detection neural network with teammates.</li>
 <li>Accomplished inverse kinematics and path planning of the Franka robotic arm and control of a pneumatic gripper with teammates.</li>
 </ul>
-<img src="/Pictures/WasteSorting.png" width="343" height="193"/>
-<img src="/Pictures/WasteSorting_1.png" width="343" height="193"/>
+<img src="/Pictures/WasteSorting.png" width="343" height="217"/>
+<img src="/Pictures/WasteSorting_1.png" width="245" height="172"/>
 </details>
 
 <details>
@@ -58,8 +58,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
 </ul>
 <img src="/Pictures/Capsule.png" width="130" height="66"/>
-<img src="/Pictures/Capsule_3.png" width="130" height="66"/>
-<img src="/Pictures/Capsule_2.png" width="130" height="66"/>
+<img src="/Pictures/Capsule_3.png" width="130" height="80"/>
+<img src="/Pictures/Capsule_2.png" width="217" height="124"/>
 </details>
 
 ## Contest Experience  
