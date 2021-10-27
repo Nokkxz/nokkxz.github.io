@@ -35,6 +35,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Selected as the “National College Students’ Innovative Entrepreneurial Training Program”.</li>
 </ul>
 <img src="/Pictures/Vessel.jpg" width="232" height="130"/>
+<img src="/Pictures/Vessel.jpg" width="232" height="130"/>
 </details>
 
 ### Course Project  
