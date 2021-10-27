@@ -38,7 +38,6 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 ### Course Project  
 <details>
 <summary><strong>Agile Waste Sorting with Tossing</strong></summary>
-Collaborative Robot Learning Course
 <ul>
 <li>Implement the automatic collection and cleaning of garbage data based on MOG2 algorithm.</li>
 <li>Deployed and trained YOLOv5 object detection neural network with teammates.</li>
