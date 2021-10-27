@@ -22,8 +22,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Built a simplified simulation model of the robot in Simulink, designed a <a href="https://github.com/Nokkxz/Mini-Nezha-Control" target="_blank">model-based LQR controller</a> and realized trajectory, speed, tilt, squat, and jump control of the robot.</li>
 <li>Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”</li>
 </ul>
-<img src="/Pictures/Mini-Nezha.png" width="180" height="139"/>
-<img src="/Pictures/Mini-Nezha_1.png" width="180" height="139"/>
+<img src="/Pictures/Mini-Nezha.png" width="216" height="167"/>
+<img src="/Pictures/Mini-Nezha_1.png" width="216" height="167"/>
 </details>
 
 <details>
@@ -36,7 +36,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Realized localization between vessels based on OpenCV and AprilTag.</li>
 <li>Selected as the “National College Students’ Innovative Entrepreneurial Training Program”.</li>
 </ul>
-<img src="/Pictures/Vessel.png" width="232" height="130"/>
+<img src="/Pictures/Vessel.png" width="269" height="151"/>
 <img src="/Pictures/Vessel_1.png" width="216" height="151"/>
 </details>
 
@@ -60,9 +60,9 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <li>Built the <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">hydrodynamic model</a> of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
 <li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
 </ul>
-<img src="/Pictures/Capsule.png" width="130" height="66"/>
-<img src="/Pictures/Capsule_2.png" width="161" height="100"/>
-<img src="/Pictures/Capsule_1.png" width="175" height="100"/>
+<img src="/Pictures/Capsule.png" width="156" height="79"/>
+<img src="/Pictures/Capsule_2.png" width="193" height="120"/>
+<img src="/Pictures/Capsule_1.png" width="210" height="120"/>
 </details>
 
 ## Contest Experience  
@@ -76,7 +76,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <li>1st prize in the Regional Competition.</li>
 <li>1st prize in the University League Competition.</li>
 </ul>
-<img src="/Pictures/rm2021.png" width="213" height="138"/>
+<img src="/Pictures/rm2021.png" width="256" height="166"/>
 </details>
 
 <details>
@@ -112,4 +112,5 @@ Electric Control Group,
 <li>Modeled and solved a drones deployment problem by big data analysis, cellular automata, MTSP, nonlinear integer programming, Genetic Algorithm.</li>
 <li>Meritorious Winner (top 6.27% among 4487 teams).</li>
 </ul>
+<img src="/Pictures/MCM.png" width="472" height="182"/>
 </details>
