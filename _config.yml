@@ -1,10 +1,8 @@
-# Jekyll Configuration
 theme: jekyll-theme-minimal
 title: Zhi Xu
-description: Undergraduate at SUSTech, China
-logo: /Pictures/Capsule.png
-google_analytics: G-H2H5LCSDZ9
+# description: Undergraduate at SUSTech, China
+# logo: /Pictures/Capsule.png
 # url_cv: /docs/CV_Yulun_Zhuang.pdf
 url_github: https://github.com/silvery107
 url_email: z1079931505@gmail.com
-icon: assets/img/logo_square.ico
+icon: /Pictures/Capsule.png
