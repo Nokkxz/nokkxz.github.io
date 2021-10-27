@@ -13,7 +13,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <details>
 <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021<br>
-Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang<br>
+<a href="https://www.wzhanglab.site/" target="_blank">Control & Learning for Robotics and Autonomy(CLEAR) Lab</a>
 <ul>
 <li>Participated in the mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
@@ -27,7 +27,7 @@ Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. 
 <details>
 <summary><strong>A Multiple Unmanned Surface Vessel System Based on Coordinated Control</strong></summary>
 12/2019 - 06/2020<br>
-Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang<br>
+<a href="https://www.wzhanglab.site/" target="_blank">Control & Learning for Robotics and Autonomy(CLEAR) Lab</a>
 <ul>
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
 <li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
@@ -39,12 +39,22 @@ Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. 
 
 ### Course Project
 <details>
+<summary><strong>Agile Waste Sorting with Tossing</strong></summary>
+Collaborative Robot Learning Course
+<ul>
+<li>Implement the automatic collection and cleaning of garbage data based on MOG2 algorithm.</li>
+<li>Deployed and trained YOLOv5 object detection neural network by Python with other teammates.</li>
+<li>Accomplished inverse kinematics and path planning of the Franka robotic arm and control of a pneumatic gripper with other teammates.</li>
+</ul>
+</details>
+<img src="/Pictures/WasteSorting.png" width="343" height="193"/>
+<details>
 <summary><strong>Pose Control of Propeller-driven Robotic Capsule Endoscope</strong></summary>
 <ul>
 <li>Built the hydrodynamic model of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
-<li>Realized pose and speed control of the capsule with PID and LQR controller in simulation.</li>
+<li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
 </ul>
 </details>
-<img src="/Pictures/Capsule.png" width="196" height="100"/>
+<img src="/Pictures/Capsule.png" width="130" height="66"/>
 
 ## Contest Experience
