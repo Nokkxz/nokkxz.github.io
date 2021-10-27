@@ -41,8 +41,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 Collaborative Robot Learning Course
 <ul>
 <li>Implement the automatic collection and cleaning of garbage data based on MOG2 algorithm.</li>
-<li>Deployed and trained YOLOv5 object detection neural network by Python with other teammates.</li>
-<li>Accomplished inverse kinematics and path planning of the Franka robotic arm and control of a pneumatic gripper with other teammates.</li>
+<li>Deployed and trained YOLOv5 object detection neural network with teammates.</li>
+<li>Accomplished inverse kinematics and path planning of the Franka robotic arm and control of a pneumatic gripper with teammates.</li>
 </ul>
 <img src="/Pictures/WasteSorting.png" width="343" height="193"/>
 </details>
