@@ -1,4 +1,4 @@
-## About me
+## About Me
 
 ## Education
 #### Southern University of Science and Technology
