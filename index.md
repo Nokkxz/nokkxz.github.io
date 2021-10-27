@@ -1,6 +1,6 @@
 ## About Me
 https://github.com/Nokkxz  
-https://lceda.cn/HALOx/
+https://lceda.cn/HALOx/  
 11812426@mail.sustech.edu.cn  
 
 ## Education
