@@ -1,5 +1,6 @@
 ## About Me
 https://github.com/Nokkxz  
+https://lceda.cn/HALOx/
 11812426@mail.sustech.edu.cn  
 
 ## Education
@@ -83,7 +84,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 Leader of the Dart System Group, 
 <a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
 <ul>
-<li>Led a group of 4 students and achieved the mechanical design of the Dart and its Launcher.</li>
+<li>Led a group of 5 students and achieved the mechanical design of the Dart and its Launcher.</li>
 <li>Designed and soldered the <a href="https://oshwhub.com/HALOx/missile_0" target="_blank">printed circuit board</a> (PCB) of the Dart.</li>
 <li>Realized rudder control of the Dart by PID and <a href="https://github.com/Nokkxz/RM2020-Dart" target="_blank">electric control of the Launcher</a>.</li>
 <li>Realized rapid infrared guidance by visual algorithms based on OpenCV.</li>
