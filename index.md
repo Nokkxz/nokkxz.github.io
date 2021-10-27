@@ -1,4 +1,6 @@
 ## About Me
+https://github.com/Nokkxz  
+11812426@mail.sustech.edu.cn  
 
 ## Education
 #### Southern University of Science and Technology
