@@ -6,9 +6,7 @@ Major:  Robotic Engineering
 Degree:	Bachelor of Engineering (Expected 06/2022)  
 
 ## Project Experience  
----
 ### Research Project  
----
 <details>
 <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021<br>
@@ -20,8 +18,8 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Built a simplified simulation model of the robot in Simulink, designed a <a href="https://github.com/Nokkxz/Mini-Nezha-Control" target="_blank">model-based LQR controller</a> and realized trajectory, speed, tilt, squat, and jump control of the robot.</li>
 <li>Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”</li>
 </ul>
-</details>
 <img src="/Pictures/Mini-Nezha.png" width="180" height="139"/>
+</details>
 
 <details>
 <summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
@@ -33,11 +31,10 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Realized localization between vessels based on OpenCV and AprilTag.</li>
 <li>Selected as the “National College Students’ Innovative Entrepreneurial Training Program”.</li>
 </ul>
-</details>
 <img src="/Pictures/Vessel.jpg" width="232" height="130"/>
+</details>
 
 ### Course Project  
----
 <details>
 <summary><strong>Agile Waste Sorting with Tossing</strong></summary>
 Collaborative Robot Learning Course
@@ -46,16 +43,16 @@ Collaborative Robot Learning Course
 <li>Deployed and trained YOLOv5 object detection neural network by Python with other teammates.</li>
 <li>Accomplished inverse kinematics and path planning of the Franka robotic arm and control of a pneumatic gripper with other teammates.</li>
 </ul>
-</details>
 <img src="/Pictures/WasteSorting.png" width="343" height="193"/>
+</details>
+
 <details>
 <summary><strong>Pose Control of Propeller-driven Robotic Capsule Endoscope</strong></summary>
 <ul>
 <li>Built the <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">hydrodynamic model</a> of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
 <li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
 </ul>
-</details>
 <img src="/Pictures/Capsule.png" width="130" height="66"/>
+</details>
 
 ## Contest Experience  
----
