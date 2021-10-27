@@ -32,7 +32,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
 <li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
 <li>Realized localization between vessels based on OpenCV and AprilTag.</li>
-<li>Selected as the “College Students’ Innovative Entrepreneurial Training Program”.</li>
+<li>Selected as the “National College Students’ Innovative Entrepreneurial Training Program”.</li>
 </ul>
 </details>
 <img src="/Pictures/Vessel.jpg" width="232" height="130"/>
