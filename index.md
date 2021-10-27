@@ -38,5 +38,13 @@ Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. 
 <img src="/Pictures/Vessel.jpg" width="232" height="130"/>
 
 ### Course Project
+<details>
+<summary><strong>Pose Control of Propeller-driven Robotic Capsule Endoscope</strong></summary>
+<ul>
+<li>Built the hydrodynamic model of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
+<li>Realized pose and speed control of the capsule with PID and LQR controller in simulation.</li>
+</ul>
+</details>
+<img src="/Pictures/Capsule.jpg" width="196" height="100"/>
 
 ## Contest Experience
