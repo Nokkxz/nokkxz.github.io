@@ -1,15 +1,12 @@
-# Zhi Xu
-[11812426@mail.sustech.edu.cn](11812426@mail.sustech.edu.cn)  
-[https://github.com/Nokkxz](https://github.com/Nokkxz)  
 
-## Education
+# Education
 #### Southern University of Science and Technology
 09/2018 - present  
 Major:  Robotic Engineering  
 Degree:	Bachelor of Engineering (Expected 06/2022)  
 
-## Project Experience  
-### Research Project  
+# Project Experience  
+## Research Project  
 ---
 <details>
 <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
@@ -38,7 +35,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 </details>
 <img src="/Pictures/Vessel.jpg" width="232" height="130"/>
 
-### Course Project
+## Course Project
 <details>
 <summary><strong>Agile Waste Sorting with Tossing</strong></summary>
 Collaborative Robot Learning Course
@@ -58,4 +55,4 @@ Collaborative Robot Learning Course
 </details>
 <img src="/Pictures/Capsule.png" width="130" height="66"/>
 
-## Contest Experience
+# Contest Experience
