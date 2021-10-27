@@ -18,9 +18,25 @@ Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. 
 <li>Participated in the mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
 <li>Constructed the multithreaded <a href="https://github.com/Nokkxz/Mini-Nezha" target="_blank">code framework</a> based on C++ object-oriented programming and finite state machine.</li>
-<li>Built the simulation model of the robot in Simulink, designed a <a href="https://github.com/Nokkxz/Mini-Nezha-Control" target="_blank">model-based LQR controller</a> and realized trajectory, speed, tilt, squat, and jump control of the robot.</li>
+<li>Built a simplified simulation model of the robot in Simulink, designed a <a href="https://github.com/Nokkxz/Mini-Nezha-Control" target="_blank">model-based LQR controller</a> and realized trajectory, speed, tilt, squat, and jump control of the robot.</li>
 <li>Received the “Special Funds for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation”</li>
 </ul>
 </details>
 <img src="/Pictures/Mini-Nezha.png" width="180" height="139"/>
 
+<details>
+<summary><strong>A Multiple Unmanned Surface Vessel System Based on Coordinated Control</strong></summary>
+12/2019 - 06/2020<br>
+Control & Learning for Robotics and Autonomy (CLEAR) Lab, supervised by Prof W. Zhang<br>
+<ul>
+<li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
+<li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
+<li>Realized localization between vessels based on OpenCV and AprilTag.</li>
+<li>Selected as the “College Students’ Innovative Entrepreneurial Training Program”.</li>
+</ul>
+</details>
+<img src="/Pictures/Vessel.jpg" width="232" height="130"/>
+
+### Course Project
+
+## Contest Experience
