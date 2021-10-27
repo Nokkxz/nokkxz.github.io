@@ -75,8 +75,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <li>1st prize in the Regional Competition.</li>
 <li>1st prize in the University League Competition.</li>
 </ul>
-<img src="/Pictures/WasteSorting.png" width="258" height="163"/>
-<img src="/Pictures/WasteSorting_1.png" width="245" height="115"/>
+<img src="/Pictures/rm2021.png" width="213" height="138"/>
 </details>
 
 <details>
@@ -88,7 +87,7 @@ Leader of the Dart System Group,
 <li>Designed and soldered the <a href="https://oshwhub.com/HALOx/missile_0" target="_blank">printed circuit board</a> (PCB) of the Dart.</li>
 <li>Realized rudder control of the Dart by PID and <a href="https://github.com/Nokkxz/RM2020-Dart" target="_blank">electric control of the Launcher</a>.</li>
 <li>Realized rapid infrared guidance by visual algorithms based on OpenCV.</li>
-<li>Programmed a <a href="https://github.com/Nokkxz/RM2020-Dart" target="_blank">ground station application</a>.</li> based on Qt, realized TCP network communication and flight data record and display.</li>
+<li>Programmed a <a href="https://github.com/Nokkxz/RM2020-Dart" target="_blank">ground station application</a> based on Qt, realized TCP network communication and flight data record and display.</li>
 <li>1st prize for electric control & 3rd prize for algorithm in the Online Assessment.</li>
 </ul>
 <img src="/Pictures/WasteSorting.png" width="258" height="163"/>
