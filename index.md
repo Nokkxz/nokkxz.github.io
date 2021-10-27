@@ -67,7 +67,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 ## Contest Experience  
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2021</strong></summary>
-<a href="https://github.com/Artinx-Algorithm-Group" target="_blank">Vision Group</a>, 
+<a href="https://github.com/Artinx-Algorithm-Group" target="_blank">Algorithm Group</a>, 
 <a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
 <ul>
 <li>Worked on vision-based armor detection algorithms based on ROS and OpenCV.</li>
