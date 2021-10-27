@@ -25,7 +25,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <img src="/Pictures/Mini-Nezha.png" width="180" height="139"/>
 
 <details>
-<summary><strong>A Multiple Unmanned Surface Vessel System Based on Coordinated Control</strong></summary>
+<summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
 12/2019 - 06/2020<br>
 <a href="https://www.wzhanglab.site/" target="_blank">Control & Learning for Robotics and Autonomy(CLEAR) Lab</a>
 <ul>
@@ -51,7 +51,7 @@ Collaborative Robot Learning Course
 <details>
 <summary><strong>Pose Control of Propeller-driven Robotic Capsule Endoscope</strong></summary>
 <ul>
-<li>Built the hydrodynamic model of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
+<li>Built the <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">hydrodynamic model</a> of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
 <li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
 </ul>
 </details>
