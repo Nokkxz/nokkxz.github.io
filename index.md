@@ -10,7 +10,6 @@ Major:  Robotic Engineering
 Degree:	Bachelor of Engineering (Expected 06/2022)  
 
 ## Project Experience  
-### Research Project  
 <details>
   <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021<br>
@@ -40,7 +39,6 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <img src="/Pictures/Vessel_1.png" width="216" height="151"/>
 </details>
 
-### Course Project  
 <details>
 <summary><strong>Agile Waste Sorting with Tossing</strong></summary>
 <a href="https://github.com/Nokkxz/ME336-Yellow-Team-Project" target="_blank">
@@ -118,7 +116,7 @@ Electric Control Group,
 
 ## Student's Union Activities
 <strong>
-<p><font color="gray">2019-2020</font></p> Vice minister of the Practice Department of Zhiren College<br>
+<p><font color="gray">2019-2020</font> Vice minister of the Practice Department of Zhiren College</p><br>
 2019-2020 Outstanding student organization in Zhiren College<br>
 </strong>
 
