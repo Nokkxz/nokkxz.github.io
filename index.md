@@ -72,7 +72,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
 <ul>
 <li>Worked on vision-based armor detection algorithms based on ROS and OpenCV.</li>
-<li>1st prize in the Final Tournament (one of 16 finalist teams among over 400 teams).</li>
+<li>1st prize in the Final Tournament (one of 16 finalist teams among over 400 universities).</li>
 <li>1st prize in the Regional Competition.</li>
 <li>1st prize in the University League Competition.</li>
 </ul>
