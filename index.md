@@ -116,10 +116,16 @@ Electric Control Group,
 </details>
 
 ## Student's Union Activities
-#### 2019-2020 Vice minister of the Practice Department of Zhiren College
-#### 2019 Outstanding student organization in Zhiren College
+<strong>
+2019-2020 Vice minister of the Practice Department of Zhiren College<br>
+2019 Outstanding student organization in Zhiren College<br>
+</strong>
 
 ## Awards
-#### 2018 3rd Scholarships for Outstanding Students
-#### 2020 3rd Scholarships for Outstanding Students
-#### 2021 2rd Scholarships for Outstanding Students
+<strong>
+2018 3rd Scholarships for Outstanding Students<br>
+2020 3rd Scholarships for Outstanding Students<br>
+2021 2rd Scholarships for Outstanding Students<br>
+</strong>
+  
+  
