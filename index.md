@@ -5,9 +5,8 @@ https://lceda.cn/HALOx/
 
 ## Education
 #### Southern University of Science and Technology
-09/2018 - present  
-Major:  Robotic Engineering  
-Degree:	Bachelor of Engineering (Expected 06/2022)  
+09/2018 - 06/2022  
+Underguaduate in Robotics Engineering  
 
 ## Project Experience  
 <details>
@@ -115,16 +114,12 @@ Electric Control Group,
 </details>
 
 ## Student's Union Activities
-<strong>
-<p><font color="gray">2019-2020</font> Vice minister of the Practice Department of Zhiren College</p><br>
-2019-2020 Outstanding student organization in Zhiren College<br>
-</strong>
+- 2019-2020 **Vice minister of the Practice Department of Zhiren College  
+- 2019-2020 **Outstanding student organization in Zhiren College  
 
 ## Awards
-<strong>
-2021 2rd Scholarships for Outstanding Students<br>
-2020 3rd Scholarships for Outstanding Students<br>
-2018 3rd Scholarships for Outstanding Students<br>
-</strong>
+- 2021 **2rd Scholarships for Outstanding Students  
+- 2020 **3rd Scholarships for Outstanding Students  
+- 2018 **3rd Scholarships for Outstanding Students  
   
   
