@@ -112,6 +112,7 @@ Leader of the Dart System Group,
 <li>1st prize for electric control & 3rd prize for algorithm in the Online Assessment.</li>
 </ul>
 <img src="/Pictures/Dart.png" width="273" height="182"/>
+<img src="/Pictures/Dart_PCB.png" width="268" height="120"/>
 </details>
 
 <details>
