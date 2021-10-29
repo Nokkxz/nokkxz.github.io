@@ -46,8 +46,9 @@ https://lceda.cn/HALOx/
 <li>Established an online control platform and accomplished the hardware-in-the-loop simulation with teammates.</li>
 <li>Evaluated the auto-steering system in hardware-in-the-loop simulation through different steering tests.</li>
 </ul>
-<img src="/Pictures/Vessel.png" width="269" height="151"/>
-<img src="/Pictures/Vessel_1.png" width="216" height="151"/>
+<img src="/Pictures/ND.png" width="186" height="139"/>
+<img src="/Pictures/ND_1.png" width="186" height="139"/>
+<img src="/Pictures/ND_2.png" width="186" height="151"/>
 </details>
 
 <details>
