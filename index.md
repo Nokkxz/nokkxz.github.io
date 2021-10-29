@@ -7,6 +7,9 @@ https://lceda.cn/HALOx/
 <strong style="font-size:1.2em">Southern University of Science and Technology</strong><br>
 09/2018 - 06/2022, Underguaduate in Robotics Engineering  
 
+<strong style="font-size:1.2em">University of Notre Dame</strong><br>
+06/2021 - 08/2021, Summer Intern
+
 ## Project Experience  
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
@@ -30,6 +33,18 @@ https://lceda.cn/HALOx/
 <li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
 <li>Realized localization between vessels based on OpenCV and AprilTag.</li>
 <li>Selected as the “National College Students’ Innovative Entrepreneurial Training Program”.</li>
+</ul>
+<img src="/Pictures/Vessel.png" width="269" height="151"/>
+<img src="/Pictures/Vessel_1.png" width="216" height="151"/>
+</details>
+
+<details>
+<summary style="line-height:2em;font-size:1.2em;"><strong>Modeling and Simulation of Auto-steering Tractor</strong></summary>
+06/2021 - 08/2021, SUSTech & University of Notre Dame & Agjunction Inc.
+<ul>
+<li>Researched on the suspension dynamics and soil-tire interaction model of tractor, improve their implementation in Webots.</li>
+<li>Established an online control platform and accomplished the hardware-in-the-loop simulation with teammates.</li>
+<li>Evaluated the auto-steering system in hardware-in-the-loop simulation through different steering tests.</li>
 </ul>
 <img src="/Pictures/Vessel.png" width="269" height="151"/>
 <img src="/Pictures/Vessel_1.png" width="216" height="151"/>
