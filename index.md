@@ -12,7 +12,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 ## Project Experience  
 ### Research Project  
 <details>
-  <summary><strong><u>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</u></strong></summary>
+  <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021<br>
 <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
@@ -27,7 +27,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 </details>
 
 <details>
-<summary><strong><u>A Multiple Unmanned Surface Vessel System</u></strong></summary>
+<summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
 12/2019 - 06/2020<br>
 <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
@@ -66,6 +66,17 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </details>
 
 ## Contest Experience  
+
+<details>
+<summary><strong><a href="https://www.comap.com/undergraduate/contests/mcm/instructions.php" target="_blank">Mathematical Contest in Modeling (MCM) </a> 2021</strong></summary>
+<a href="https://github.com/Nokkxz/2021MCM-B" target="_blank">Paper</a>
+<ul>
+<li>Modeled and solved a drones deployment problem by big data analysis, cellular automata, MTSP, nonlinear integer programming, Genetic Algorithm.</li>
+<li>Meritorious Winner (top 6.27% among 4487 teams).</li>
+</ul>
+<img src="/Pictures/MCM.png" width="472" height="182"/>
+</details>
+
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2021</strong></summary>
 <a href="https://github.com/Artinx-Algorithm-Group" target="_blank">Algorithm Group</a>, 
@@ -105,19 +116,9 @@ Electric Control Group,
 </ul>
 </details>
 
-<details>
-<summary><strong><a href="https://www.comap.com/undergraduate/contests/mcm/instructions.php" target="_blank">Mathematical Contest in Modeling (MCM) </a> 2021</strong></summary>
-<a href="https://github.com/Nokkxz/2021MCM-B" target="_blank">Paper</a>
-<ul>
-<li>Modeled and solved a drones deployment problem by big data analysis, cellular automata, MTSP, nonlinear integer programming, Genetic Algorithm.</li>
-<li>Meritorious Winner (top 6.27% among 4487 teams).</li>
-</ul>
-<img src="/Pictures/MCM.png" width="472" height="182"/>
-</details>
-
 ## Student's Union Activities
 <strong>
-<font color="gray">2019-2020</font> Vice minister of the Practice Department of Zhiren College<br>
+<p><font color="gray">2019-2020</font></p> Vice minister of the Practice Department of Zhiren College<br>
 2019-2020 Outstanding student organization in Zhiren College<br>
 </strong>
 
