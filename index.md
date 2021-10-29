@@ -4,7 +4,7 @@ https://lceda.cn/HALOx/
 11812426@mail.sustech.edu.cn  
 
 ## Education
-**Southern University of Science and Technology**  
+#### Southern University of Science and Technology  
 09/2018 - 06/2022 Underguaduate in Robotics Engineering  
 
 ## Project Experience  
