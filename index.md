@@ -8,9 +8,8 @@ https://lceda.cn/HALOx/
 09/2018 - 06/2022, Underguaduate in Robotics Engineering  
 
 ## Project Experience  
-<p style="line-height:2em">
 <details>
-<summary style="line-height:2em"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
+<summary style="line-height:4em"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in the mechanical design of the robot.</li>
@@ -59,7 +58,6 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <img src="/Pictures/Capsule_2.png" width="193" height="120"/>
 <img src="/Pictures/Capsule_1.png" width="210" height="120"/>
 </details>
-</p>
 
 ## Contest Experience  
 <details>
