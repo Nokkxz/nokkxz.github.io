@@ -5,15 +5,13 @@ https://lceda.cn/HALOx/
 
 ## Education
 **Southern University of Science and Technology**  
-09/2018 - 06/2022  
-Underguaduate in Robotics Engineering  
+09/2018 - 06/2022, Underguaduate in Robotics Engineering  
 
 ## Project Experience  
-<p style="line-height:2.4">
+<p style="line-height:3px">
 <details>
-  <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
-10/2020 - 06/2021<br>
-<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+<summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
+10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in the mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
@@ -27,8 +25,7 @@ Underguaduate in Robotics Engineering
 
 <details>
 <summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
-12/2019 - 06/2020<br>
-<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+12/2019 - 06/2020, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
 <li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
