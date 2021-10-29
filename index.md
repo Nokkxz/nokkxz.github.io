@@ -54,7 +54,7 @@ https://lceda.cn/HALOx/
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Agile Waste Sorting with Tossing</strong></summary>
 <a href="https://github.com/Nokkxz/ME336-Yellow-Team-Project" target="_blank">
-A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a>
+A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <ul>
 <li>Implement the automatic collection and cleaning of garbage data based on MOG2 algorithm.</li>
 <li>Deployed and trained YOLOv5 object detection neural network with teammates.</li>
