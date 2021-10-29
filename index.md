@@ -4,9 +4,8 @@ https://lceda.cn/HALOx/
 11812426@mail.sustech.edu.cn  
 
 ## Education
-**Southern University of Science and Technology**
-09/2018 - 06/2022  
-Underguaduate in Robotics Engineering  
+**Southern University of Science and Technology**  
+09/2018 - 06/2022 Underguaduate in Robotics Engineering  
 
 ## Project Experience  
 <details>
@@ -113,12 +112,12 @@ Electric Control Group,
 </details>
 
 ## Student's Union Activities
-- 2019-2020 **Vice minister of the Practice Department of Zhiren College**  
-- 2019-2020 **Outstanding student organization in Zhiren College**  
+- 2019-2020 Vice minister of the Practice Department of Zhiren College  
+- 2019-2020 Outstanding student organization in Zhiren College  
 
 ## Awards
-- 2021 **2rd Scholarships for Outstanding Students**  
-- 2020 **3rd Scholarships for Outstanding Students**  
-- 2018 **3rd Scholarships for Outstanding Students**  
+- 2021 2rd Scholarships for Outstanding Students  
+- 2020 3rd Scholarships for Outstanding Students  
+- 2018 3rd Scholarships for Outstanding Students  
   
   
