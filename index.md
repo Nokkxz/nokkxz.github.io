@@ -9,6 +9,7 @@ https://lceda.cn/HALOx/
 Underguaduate in Robotics Engineering  
 
 ## Project Experience  
+<p style="line-height:2.4">
 <details>
   <summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021<br>
@@ -23,7 +24,6 @@ Underguaduate in Robotics Engineering
 <img src="/Pictures/Mini-Nezha.png" width="216" height="167"/>
 <img src="/Pictures/Mini-Nezha_1.png" width="216" height="167"/>
 </details>
-<br>
 
 <details>
 <summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
@@ -38,7 +38,6 @@ Underguaduate in Robotics Engineering
 <img src="/Pictures/Vessel.png" width="269" height="151"/>
 <img src="/Pictures/Vessel_1.png" width="216" height="151"/>
 </details>
-<br>
 
 <details>
 <summary><strong>Agile Waste Sorting with Tossing</strong></summary>
@@ -52,7 +51,6 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <img src="/Pictures/WasteSorting.png" width="258" height="163"/>
 <img src="/Pictures/WasteSorting_1.png" width="245" height="115"/>
 </details>
-<br>
 
 <details>
 <summary><strong>Propeller-driven Capsule Endoscope</strong></summary>
@@ -64,6 +62,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <img src="/Pictures/Capsule_2.png" width="193" height="120"/>
 <img src="/Pictures/Capsule_1.png" width="210" height="120"/>
 </details>
+</p>
 
 ## Contest Experience  
 <details>
