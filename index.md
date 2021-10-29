@@ -109,6 +109,11 @@ Electric Control Group,
 </ul>
 </details>
 
+## Publications
+<strong style="font-size:1.2em">Biped Robot</strong><br>
+06/2021, <i>China Patent CN112977666A</i><br>
+W Zhang, Y Zhuang, G Shi, Y Mao, Y Xu, Z Xu, K Chen, T Ren, Z Yang  
+
 ## Student's Union Activities
 - 2019-2020 Vice minister of the Practice Department of Zhiren College  
 - 2019-2020 Outstanding student organization in Zhiren College  
