@@ -9,7 +9,7 @@ https://lceda.cn/HALOx/
 
 ## Project Experience  
 <details>
-<summary style="line-height:4em"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
+<summary style="line-height:2em"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in the mechanical design of the robot.</li>
@@ -23,7 +23,7 @@ https://lceda.cn/HALOx/
 </details>
 
 <details>
-<summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
+<summary style="line-height:2em"><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
 12/2019 - 06/2020, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
@@ -36,7 +36,7 @@ https://lceda.cn/HALOx/
 </details>
 
 <details>
-<summary><strong>Agile Waste Sorting with Tossing</strong></summary>
+<summary style="line-height:2em"><strong>Agile Waste Sorting with Tossing</strong></summary>
 <a href="https://github.com/Nokkxz/ME336-Yellow-Team-Project" target="_blank">
 A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a>
 <ul>
@@ -49,7 +49,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </details>
 
 <details>
-<summary><strong>Propeller-driven Capsule Endoscope</strong></summary>
+<summary style="line-height:2em"><strong>Propeller-driven Capsule Endoscope</strong></summary>
 <ul>
 <li>Built the <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">hydrodynamic model</a> of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
 <li>Realized <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">pose and speed control</a> of the capsule with PID and LQR controller in simulation.</li>
@@ -61,7 +61,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 
 ## Contest Experience  
 <details>
-<summary><strong><a href="https://www.comap.com/undergraduate/contests/mcm/instructions.php" target="_blank">Mathematical Contest in Modeling (MCM) </a> 2021</strong></summary>
+<summary style="line-height:2em"><strong><a href="https://www.comap.com/undergraduate/contests/mcm/instructions.php" target="_blank">Mathematical Contest in Modeling (MCM) </a> 2021</strong></summary>
 <a href="https://github.com/Nokkxz/2021MCM-B" target="_blank">Paper</a>
 <ul>
 <li>Modeled and solved a drones deployment problem by big data analysis, cellular automata, MTSP, nonlinear integer programming, Genetic Algorithm.</li>
@@ -71,7 +71,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </details>
 
 <details>
-<summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2021</strong></summary>
+<summary style="line-height:2em"><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2021</strong></summary>
 <a href="https://github.com/Artinx-Algorithm-Group" target="_blank">Algorithm Group</a>, 
 <a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
 <ul>
@@ -84,7 +84,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </details>
 
 <details>
-<summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2020</strong></summary>
+<summary style="line-height:2em"><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2020</strong></summary>
 Leader of the Dart System Group, 
 <a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
 <ul>
@@ -99,7 +99,7 @@ Leader of the Dart System Group,
 </details>
 
 <details>
-<summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2019</strong></summary>
+<summary style="line-height:2em"><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2019</strong></summary>
 Electric Control Group, 
 <a href="https://github.com/Sustech-Artinx" target="_blank">The Artinx Robotics Team</a>
 <ul>
