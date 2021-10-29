@@ -114,7 +114,7 @@ Electric Control Group,
 <summary><strong style="font-size:1.2em">Biped Robot</strong><br>
 06/2021, <i>China Patent CN112977666A</i><br>
 W Zhang, Y Zhuang, G Shi, Y Mao, Y Xu, Z Xu, K Chen, T Ren, Z Yang</summary>
-The invention discloses a biped robot which comprises a main body, two leg structures and two balancing parts.<br>
+<ul><li>The invention discloses a biped robot which comprises a main body, two leg structures and two balancing parts.</li></ul>
 <img src="/Pictures/Patent.png" width="159" height="205"/>
 </details>
 
