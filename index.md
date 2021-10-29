@@ -4,8 +4,9 @@ https://lceda.cn/HALOx/
 11812426@mail.sustech.edu.cn  
 
 ## Education
-#### Southern University of Science and Technology  
-09/2018 - 06/2022 Underguaduate in Robotics Engineering  
+**Southern University of Science and Technology**  
+09/2018 - 06/2022  
+Underguaduate in Robotics Engineering  
 
 ## Project Experience  
 <details>
@@ -22,6 +23,7 @@ https://lceda.cn/HALOx/
 <img src="/Pictures/Mini-Nezha.png" width="216" height="167"/>
 <img src="/Pictures/Mini-Nezha_1.png" width="216" height="167"/>
 </details>
+<br>
 
 <details>
 <summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
@@ -36,6 +38,7 @@ https://lceda.cn/HALOx/
 <img src="/Pictures/Vessel.png" width="269" height="151"/>
 <img src="/Pictures/Vessel_1.png" width="216" height="151"/>
 </details>
+<br>
 
 <details>
 <summary><strong>Agile Waste Sorting with Tossing</strong></summary>
@@ -49,6 +52,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 <img src="/Pictures/WasteSorting.png" width="258" height="163"/>
 <img src="/Pictures/WasteSorting_1.png" width="245" height="115"/>
 </details>
+<br>
 
 <details>
 <summary><strong>Propeller-driven Capsule Endoscope</strong></summary>
@@ -71,6 +75,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </ul>
 <img src="/Pictures/MCM.png" width="472" height="182"/>
 </details>
+<br>
 
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2021</strong></summary>
@@ -84,6 +89,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </ul>
 <img src="/Pictures/rm2021.png" width="256" height="166"/>
 </details>
+<br>
 
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2020</strong></summary>
@@ -99,6 +105,7 @@ Leader of the Dart System Group,
 </ul>
 <img src="/Pictures/Dart.png" width="273" height="182"/>
 </details>
+<br>
 
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2019</strong></summary>
