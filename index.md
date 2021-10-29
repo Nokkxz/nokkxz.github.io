@@ -115,7 +115,7 @@ Electric Control Group,
 06/2021, <i>China Patent CN112977666A</i><br>
 W Zhang, Y Zhuang, G Shi, Y Mao, Y Xu, Z Xu, K Chen, T Ren, Z Yang</summary>
 The invention discloses a biped robot which comprises a main body, two leg structures and two balancing parts.<br>
-<img src="/Pictures/Dart.png" width="273" height="182"/>
+<img src="/Pictures/Patent.png" width="159" height="205"/>
 </details>
 
 ## Student's Union Activities
