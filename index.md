@@ -114,3 +114,12 @@ Electric Control Group,
 </ul>
 <img src="/Pictures/MCM.png" width="472" height="182"/>
 </details>
+
+## Student's Union Activities
+#### 2019-2020 Vice minister of the Practice Department of Zhiren College
+#### 2019 Outstanding student organization in Zhiren College
+
+## Awards
+#### 2018 3rd Scholarships for Outstanding Students
+#### 2020 3rd Scholarships for Outstanding Students
+#### 2021 2rd Scholarships for Outstanding Students
