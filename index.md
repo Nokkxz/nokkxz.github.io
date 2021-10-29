@@ -14,7 +14,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <details>
   <summary><strong><u>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</u></strong></summary>
 10/2020 - 06/2021<br>
-<a href="https://www.wzhanglab.site/" target="_blank">Control & Learning for Robotics and Autonomy(CLEAR) Lab</a>
+<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in the mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
@@ -29,7 +29,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 <details>
 <summary><strong><u>A Multiple Unmanned Surface Vessel System</u></strong></summary>
 12/2019 - 06/2020<br>
-<a href="https://www.wzhanglab.site/" target="_blank">Control & Learning for Robotics and Autonomy(CLEAR) Lab</a>
+<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
 <li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
@@ -117,15 +117,15 @@ Electric Control Group,
 
 ## Student's Union Activities
 <strong>
-2019-2020 Vice minister of the Practice Department of Zhiren College<br>
-2019 Outstanding student organization in Zhiren College<br>
+<font color="gray">2019-2020</font> Vice minister of the Practice Department of Zhiren College<br>
+2019-2020 Outstanding student organization in Zhiren College<br>
 </strong>
 
 ## Awards
 <strong>
-2018 3rd Scholarships for Outstanding Students<br>
-2020 3rd Scholarships for Outstanding Students<br>
 2021 2rd Scholarships for Outstanding Students<br>
+2020 3rd Scholarships for Outstanding Students<br>
+2018 3rd Scholarships for Outstanding Students<br>
 </strong>
   
   
