@@ -12,7 +12,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 ## Project Experience  
 ### Research Project  
 <details>
-<summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
+  <summary><strong><u>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</u></strong></summary>
 10/2020 - 06/2021<br>
 <a href="https://www.wzhanglab.site/" target="_blank">Control & Learning for Robotics and Autonomy(CLEAR) Lab</a>
 <ul>
@@ -27,7 +27,7 @@ Degree:	Bachelor of Engineering (Expected 06/2022)
 </details>
 
 <details>
-<summary><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
+<summary><strong><u>A Multiple Unmanned Surface Vessel System</u></strong></summary>
 12/2019 - 06/2020<br>
 <a href="https://www.wzhanglab.site/" target="_blank">Control & Learning for Robotics and Autonomy(CLEAR) Lab</a>
 <ul>
