@@ -74,7 +74,6 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </ul>
 <img src="/Pictures/MCM.png" width="472" height="182"/>
 </details>
-<br>
 
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2021</strong></summary>
@@ -88,7 +87,6 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </ul>
 <img src="/Pictures/rm2021.png" width="256" height="166"/>
 </details>
-<br>
 
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2020</strong></summary>
@@ -104,7 +102,6 @@ Leader of the Dart System Group,
 </ul>
 <img src="/Pictures/Dart.png" width="273" height="182"/>
 </details>
-<br>
 
 <details>
 <summary><strong><a href="https://www.robomaster.com/en-US" target="_blank">Robomaster</a> 2019</strong></summary>
