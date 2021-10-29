@@ -4,7 +4,7 @@ https://lceda.cn/HALOx/
 11812426@mail.sustech.edu.cn  
 
 ## Education
-#### Southern University of Science and Technology
+**Southern University of Science and Technology**
 09/2018 - 06/2022  
 Underguaduate in Robotics Engineering  
 
@@ -63,7 +63,6 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Throwing</a
 </details>
 
 ## Contest Experience  
-
 <details>
 <summary><strong><a href="https://www.comap.com/undergraduate/contests/mcm/instructions.php" target="_blank">Mathematical Contest in Modeling (MCM) </a> 2021</strong></summary>
 <a href="https://github.com/Nokkxz/2021MCM-B" target="_blank">Paper</a>
@@ -114,12 +113,12 @@ Electric Control Group,
 </details>
 
 ## Student's Union Activities
-- 2019-2020 **Vice minister of the Practice Department of Zhiren College  
-- 2019-2020 **Outstanding student organization in Zhiren College  
+- 2019-2020 **Vice minister of the Practice Department of Zhiren College**  
+- 2019-2020 **Outstanding student organization in Zhiren College**  
 
 ## Awards
-- 2021 **2rd Scholarships for Outstanding Students  
-- 2020 **3rd Scholarships for Outstanding Students  
-- 2018 **3rd Scholarships for Outstanding Students  
+- 2021 **2rd Scholarships for Outstanding Students**  
+- 2020 **3rd Scholarships for Outstanding Students**  
+- 2018 **3rd Scholarships for Outstanding Students**  
   
   
