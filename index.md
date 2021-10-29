@@ -10,7 +10,7 @@ https://lceda.cn/HALOx/
 ## Project Experience  
 <p style="line-height:2em">
 <details>
-<summary><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
+<summary style="line-height:2em"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in the mechanical design of the robot.</li>
