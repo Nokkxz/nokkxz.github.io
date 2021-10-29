@@ -12,7 +12,7 @@ https://lceda.cn/HALOx/
 <summary style="line-height:2em;font-size:2em;"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
 10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
-<li>Participated in the mechanical design of the robot.</li>
+<li>Participated in mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
 <li>Constructed the multithreaded <a href="https://github.com/Nokkxz/Mini-Nezha" target="_blank">code framework</a> based on C++ object-oriented programming and finite state machine.</li>
 <li>Built a simplified simulation model of the robot in Simulink, designed a <a href="https://github.com/Nokkxz/Mini-Nezha-Control" target="_blank">model-based LQR controller</a> and realized trajectory, speed, tilt, squat, and jump control of the robot.</li>
