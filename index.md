@@ -42,7 +42,7 @@ https://lceda.cn/HALOx/
 <summary style="line-height:2em;font-size:1.2em;"><strong>Modeling and Simulation of Auto-steering Tractor</strong></summary>
 Summer Intern, SUSTech & University of Notre Dame & Agjunction Inc.
 <ul>
-<li>Researched on the suspension dynamics and soil-tire interaction model of tractor, improve their implementation in Webots.</li>
+<li>Researched on the suspension dynamics and soil-tire interaction model of tractor, improve their <a href="https://github.com/Nokkxz/Tractor-iSURE" target="_blank">implementation in Webots</a>.</li>
 <li>Established an online control platform and accomplished the hardware-in-the-loop simulation with teammates.</li>
 <li>Evaluated the auto-steering system in hardware-in-the-loop simulation through different steering tests.</li>
 </ul>
@@ -63,11 +63,11 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <video width="267" height="167" src="/Pictures/Tossing.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 <img src="/Pictures/Tossing_1.png" width="245" height="115"/>
 </details>
-
+https://github.com/Nokkxz/Phantomx_Pro
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>2D SLAM, Navigation and Robotic Arm Planning of PhantomX</strong></summary>
 <ul>
-<li>Realized 2D SLAM (with Gmapping, Hector and Karto algorithms) and navigation (with MoveBasePlanning and ACML package) of <a href="https://github.com/HumaRobotics/phantomx_gazebo" target="_blank">PhantomX</a> hexapod robot based on ROS and Gazebo.</li>
+<li>Realized <a href="https://github.com/Nokkxz/Phantomx_Pro" target="_blank">2D SLAM and navigation</a> (with Gmapping, Hector and Karto algorithms; MoveBasePlanning and ACML package) of the <a href="https://github.com/HumaRobotics/phantomx_gazebo" target="_blank">PhantomX</a> hexapod robot based on ROS and Gazebo.</li>
 <li>Realized motion planning of the robotic arm mounted on PhantomX through MoveIt with teammates.</li>
 </ul>
 <video width="300" height="160" src="/Pictures/Phantomx_SLAM.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
