@@ -65,6 +65,16 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 </details>
 
 <details>
+<summary style="line-height:2em;font-size:1.2em;"><strong>2D SLAM, Navigation and Robotic Arm Planning based on PhantomX</strong></summary>
+<ul>
+<li>Realized 2D SLAM (with Gmapping, Hector and Karto algorithms) and navigation (with MoveBasePlanning and ACML package) of <a href="https://github.com/HumaRobotics/phantomx_gazebo" target="_blank">PhantomX</a> hexapod robot based on ROS and Gazebo simulation.</li>
+<li>Realized trajectory planning of the robotic arm deployed on PhantomX with teammates.</li>
+</ul>
+<video width="320" height="177" src="/Pictures/Phantomx_SLAM.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+<video width="320" height="177" src="/Pictures/Phantomx_grab.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+</details>
+
+<details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Propeller-driven Capsule Endoscope</strong></summary>
 <ul>
 <li>Built the <a href="https://github.com/Nokkxz/Capsule-Endoscope" target="_blank">hydrodynamic model</a> of the propeller-driven capsule endoscope, implemented its simulation with Matlab.</li>
