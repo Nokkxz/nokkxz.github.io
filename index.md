@@ -113,8 +113,8 @@ Leader of the Dart System Group,
 </ul>
 <img src="/Pictures/Dart.png" width="273" height="182"/>
 <video width="307" height="173" src="/Pictures/Dart.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
-<img src="/Pictures/Dart_SIM.png" width="265" height="125"/>
-<img src="/Pictures/Dart_PCB.png" width="265" height="125"/>
+<img src="/Pictures/Dart_SIM.png" width="270" height="130"/>
+<img src="/Pictures/Dart_PCB.png" width="270" height="130"/>
 </details>
 
 <details>
