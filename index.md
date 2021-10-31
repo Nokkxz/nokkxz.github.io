@@ -93,7 +93,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <li>Modeled and solved a drones deployment problem by big data analysis, cellular automata, MTSP, nonlinear integer programming, Genetic Algorithm.</li>
 <li>Meritorious Winner (top 6.27% among 4487 teams).</li>
 </ul>
-<a href="https://github.com/Nokkxz/2021MCM-B" target="_blank">Paper</a><ur>
+<a href="https://github.com/Nokkxz/2021MCM-B" target="_blank">Paper</a><br>
 <img src="/Pictures/MCM.png" width="472" height="182"/>
 </details>
 
