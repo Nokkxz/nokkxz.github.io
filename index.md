@@ -63,7 +63,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <video width="267" height="167" src="/Pictures/Tossing.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 <img src="/Pictures/Tossing_1.png" width="245" height="115"/>
 </details>
-https://github.com/Nokkxz/Phantomx_Pro
+
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>2D SLAM, Navigation and Robotic Arm Planning of PhantomX</strong></summary>
 <ul>
