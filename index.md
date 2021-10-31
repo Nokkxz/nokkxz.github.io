@@ -111,8 +111,8 @@ Leader of the Dart System Group,
 <li>Programmed a <a href="https://github.com/Nokkxz/RM2020-Dart" target="_blank">ground station application</a> based on Qt, realized TCP network communication and flight data record and display.</li>
 <li>1st prize for electric control & 3rd prize for algorithm in the Online Assessment.</li>
 </ul>
-<img src="/Pictures/Dart.png" width="273" height="182"/>
-<video width="307" height="173" src="/Pictures/Dart.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+<img src="/Pictures/Dart.png" width="270" height="180"/>
+<video width="300" height="170" src="/Pictures/Dart.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 <img src="/Pictures/Dart_SIM.png" width="270" height="130"/>
 <img src="/Pictures/Dart_PCB.png" width="270" height="130"/>
 </details>
