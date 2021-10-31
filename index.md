@@ -68,7 +68,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <summary style="line-height:2em;font-size:1.2em;"><strong>2D SLAM, Navigation and Robotic Arm Planning with PhantomX</strong></summary>
 <ul>
 <li>Realized 2D SLAM (with Gmapping, Hector and Karto algorithms) and navigation (with MoveBasePlanning and ACML package) of <a href="https://github.com/HumaRobotics/phantomx_gazebo" target="_blank">PhantomX</a> hexapod robot based on ROS and Gazebo.</li>
-<li>Realized motion planning of the robotic arm deployed on PhantomX through MoveIt with teammates.</li>
+<li>Realized motion planning of the robotic arm mounted on PhantomX through MoveIt with teammates.</li>
 </ul>
 <video width="300" height="160" src="/Pictures/Phantomx_SLAM.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 <video width="300" height="160" src="/Pictures/Phantomx_Navi.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
