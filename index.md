@@ -60,7 +60,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <li>Deployed and trained YOLOv5 object detection neural network with teammates.</li>
 <li>Accomplished inverse kinematics and path planning of the Franka robotic arm and control of a pneumatic gripper with teammates.</li>
 </ul>
-<video width="267" height="167" src="/Pictures/Tossing.mp4" poster="Tossing_1.png" autoplay="autoplay" loop="loop"></video>
+<video width="267" height="167" src="/Pictures/Tossing.mp4" poster="Tossing_1.png" autoplay="autoplay" loop="loop" controls="controls"></video>
 <img src="/Pictures/Tossing_1.png" width="245" height="115"/>
 </details>
 
