@@ -71,6 +71,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <li>Realized trajectory planning of the robotic arm deployed on PhantomX with teammates.</li>
 </ul>
 <video width="300" height="160" src="/Pictures/Phantomx_SLAM.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+<video width="300" height="160" src="/Pictures/Phantomx_Navi.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 <video width="300" height="160" src="/Pictures/Phantomx_grab.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 </details>
 
