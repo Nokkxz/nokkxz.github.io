@@ -96,7 +96,7 @@ A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <li>1st prize in the Regional Competition.</li>
 <li>1st prize in the University League Competition.</li>
 </ul>
-<img src="/Pictures/rm2021.png" width="256" height="166"/>
+<video width="267" height="167" src="/Pictures/Vision.mp4" autoplay="autoplay" loop="loop"></video>
 </details>
 
 <details>
@@ -112,6 +112,8 @@ Leader of the Dart System Group,
 <li>1st prize for electric control & 3rd prize for algorithm in the Online Assessment.</li>
 </ul>
 <img src="/Pictures/Dart.png" width="273" height="182"/>
+<video width="256" height="144" src="/Pictures/Dart.mp4" autoplay="autoplay" loop="loop"></video>
+<img src="/Pictures/Dart_SIM.png" width="263" height="130"/>
 <img src="/Pictures/Dart_PCB.png" width="268" height="120"/>
 </details>
 
