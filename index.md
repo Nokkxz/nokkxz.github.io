@@ -13,7 +13,7 @@ https://lceda.cn/HALOx/
 ## Project Experience  
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
-10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
@@ -27,7 +27,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
-12/2019 - 06/2020, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
 <li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
@@ -40,7 +40,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Modeling and Simulation of Auto-steering Tractor</strong></summary>
-06/2021 - 08/2021, SUSTech & University of Notre Dame & Agjunction Inc.
+Summer Intern, SUSTech & University of Notre Dame & Agjunction Inc.
 <ul>
 <li>Researched on the suspension dynamics and soil-tire interaction model of tractor, improve their implementation in Webots.</li>
 <li>Established an online control platform and accomplished the hardware-in-the-loop simulation with teammates.</li>
