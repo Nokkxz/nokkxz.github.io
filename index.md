@@ -1,7 +1,6 @@
 ## About Me
-https://github.com/Nokkxz  
-https://lceda.cn/HALOx/  
-11812426@mail.sustech.edu.cn  
+I am an underguaduate student at Southern University of Science and Technology, majoring in Robotics Engineering.  
+I am broadly interested in robotic control, planning, and perception by applying control theory, optimizaion methods and learning algorithms. My ultimate goal is to empower autonomous systems with intelligence surpassing humans at solving difficult problems.
 
 ## Education
 <strong style="font-size:1.2em">Southern University of Science and Technology</strong><br>
@@ -13,7 +12,7 @@ https://lceda.cn/HALOx/
 ## Project Experience  
 
 <details>
-<summary style="line-height:2em;font-size:1.2em;"><strong>Perception of Quadruped Robot by Plane Extraction from RGB-D Camera</strong></summary>
+<summary style="line-height:2em;font-size:1.2em;"><strong>Perception of Quadruped Robot by Plane Segmentation from RGB-D Camera</strong></summary>
 <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>, Prof W. Zhang<br>
 08/2021 - Present
 <ul>
