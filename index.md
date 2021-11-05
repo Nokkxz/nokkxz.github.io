@@ -14,7 +14,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Perception of Quadruped Robot by Plane Extraction from RGB-D Camera</strong></summary>
-08/2021 - present, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+  08/2021 - present, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in mechanical design of the robot.</li>
 </ul>
@@ -23,7 +23,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
-10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+  10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Participated in mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
@@ -37,7 +37,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
-12/2019 - 06/2020, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+  12/2019 - 06/2020, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
 <ul>
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
 <li>Accomplished GPS+IMU data processing, real-time speed control of multiple propellers and the docking control between two vessels with servos.</li>
@@ -50,7 +50,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Modeling and Simulation of Auto-steering Tractor</strong></summary>
-06/2021 - 08/2021, SUSTech & University of Notre Dame & Agjunction Inc.
+  06/2021 - 08/2021, Summer Intern, University of Notre Dame & SUSTech & Agjunction Inc.
 <ul>
 <li>Researched on the suspension dynamics and soil-tire interaction model of tractor, improve their <a href="https://github.com/Nokkxz/Tractor-iSURE" target="_blank">implementation in Webots</a>.</li>
 <li>Established an online control platform and accomplished the hardware-in-the-loop simulation with teammates.</li>
@@ -63,7 +63,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Agile Waste Sorting with Tossing</strong></summary>
-01/2021/1 - 06/2021, <a href="https://ancorasir.com/" target="_blank">The BionicDL Lab
+01/2021/1 - 06/2021, <a href="https://ancorasir.com/" target="_blank">The BionicDL Lab</a><br>
 <a href="https://github.com/Nokkxz/ME336-Yellow-Team-Project" target="_blank">
 A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <ul>
