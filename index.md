@@ -14,7 +14,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Perception of Quadruped Robot by Plane Extraction from RGB-D Camera</strong></summary>
-<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a><br>
+<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>, Prof W. Zhang<br>
 08/2021 - Present
 <ul>
 <li>Participated in mechanical design of the robot.</li>
@@ -24,7 +24,8 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Mini-NeZha: A Wheeled Bipedal Robot with Momentum Wheel</strong></summary>
-10/2020 - 06/2021, <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>
+<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>, Prof W. Zhang<br>
+10/2020 - 06/2021
 <ul>
 <li>Participated in mechanical design of the robot.</li>
 <li>Implemented the electric control system of the robot (motor selection and control, high-speed CAN bus communication, etc.) based on STM32 MCU and UpBoard with Linux.</li>
@@ -38,7 +39,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>A Multiple Unmanned Surface Vessel System</strong></summary>
-<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a><br>
+<a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>, Prof W. Zhang<br>
 12/2019 - 06/2020
 <ul>
 <li>Implemented a <a href="https://github.com/Nokkxz/Vessel" target="_blank">real-time operating system</a> for the vessel with RT-thread.</li>
@@ -52,7 +53,7 @@ https://lceda.cn/HALOx/
 
 <details>
 <summary style="line-height:2em;font-size:1.2em;"><strong>Modeling and Simulation of Auto-steering Tractor</strong></summary>
-University of Notre Dame & SUSTech & Agjunction Inc.<br>
+University of Notre Dame & SUSTech & Agjunction Inc, Prof Bill Goodwine<br>
 06/2021 - 08/2021, Summer Intern
 <ul>
 <li>Researched on the suspension dynamics and soil-tire interaction model of tractor, improve their <a href="https://github.com/Nokkxz/Tractor-iSURE" target="_blank">implementation in Webots</a>.</li>
