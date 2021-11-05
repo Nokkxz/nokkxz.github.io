@@ -1,5 +1,5 @@
 ## About Me
-I am an underguaduate student at Southern University of Science and Technology, majoring in Robotics Engineering.  
+Hi, my name is Zhi Xu. I am an underguaduate student at Southern University of Science and Technology, majoring in Robotics Engineering.  
 I am broadly interested in robotic control, planning, and perception by applying control theory, optimizaion methods and learning algorithms. My ultimate goal is to empower autonomous systems with intelligence surpassing humans at solving difficult problems.
 
 ## Education
