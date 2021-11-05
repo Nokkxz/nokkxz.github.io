@@ -16,9 +16,10 @@ I am broadly interested in robotic control, planning, and perception by applying
 <a href="https://www.wzhanglab.site/" target="_blank">CLEAR Lab</a>, Prof W. Zhang<br>
 08/2021 - Present
 <ul>
-<li>Participated in mechanical design of the robot.</li>
+<li>Realized real-time plane segmentation, polygonal approximation and convex partitioning algorithms for point cloud data from depth camera.</li>
+<li>On going...</li>
 </ul>
-<img src="/Pictures/Mini-Nezha.png" width="216" height="167"/>
+<!-- <img src="/Pictures/Mini-Nezha.png" width="216" height="167"/> -->
 </details>
 
 <details>
