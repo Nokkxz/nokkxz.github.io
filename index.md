@@ -17,7 +17,7 @@ I am broadly interested in robotic control, planning, and perception by applying
 08/2021 - Present
 <ul>
 <li>Realized real-time plane segmentation, polygonal approximation and convex partitioning algorithms for point cloud data from depth camera.</li>
-<li>On going...</li>
+<li>Ongoing...</li>
 </ul>
 <!-- <img src="/Pictures/Mini-Nezha.png" width="216" height="167"/> -->
 </details>
