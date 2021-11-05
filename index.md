@@ -1,6 +1,6 @@
 ## About Me
-I am an underguaduate student at Southern University of Science and Technology, majoring in Robotics Engineering.  
-I am broadly interested in robotic control, planning, and perception by applying control theory, optimizaion methods and learning algorithms. My ultimate goal is to empower autonomous systems with intelligence surpassing humans at solving difficult problems.
+I'm an underguaduate student at Southern University of Science and Technology, majoring in Robotics Engineering.  
+I'm broadly interested in robotic control, planning, and perception by applying control theory, optimizaion methods and learning algorithms. My ultimate goal is to empower autonomous systems with intelligence surpassing humans at solving difficult problems.
 
 ## Education
 <strong style="font-size:1.2em">Southern University of Science and Technology</strong><br>
