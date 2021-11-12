@@ -72,7 +72,7 @@ University of Notre Dame & SUSTech & Agjunction Inc, Prof Bill Goodwine<br>
 <a href="https://github.com/Nokkxz/ME336-Yellow-Team-Project" target="_blank">
 A Garbage Sorting System Based on Visual Recognition and Robotic Arm Tossing</a>
 <ul>
-<li>Implement the automatic collection and cleaning of garbage data based on MOG2 algorithm.</li>
+<li>Implemented the automatic collection and cleaning of garbage data based on MOG2 algorithm.</li>
 <li>Deployed and trained YOLOv5 object detection neural network with teammates.</li>
 <li>Accomplished motion planning of the Franka robotic arm and control of a pneumatic gripper with teammates.</li>
 </ul>
