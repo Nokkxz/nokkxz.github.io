@@ -1,6 +1,7 @@
 ## About Me
 I'm an underguaduate student at Southern University of Science and Technology, majoring in Robotics Engineering.  
-I'm broadly interested in robotic control, planning, and perception by applying control theory, optimization methods and learning algorithms. My ultimate goal is to empower autonomous systems with intelligence surpassing humans at solving difficult problems.
+I'm broadly interested in robotic control, planning, and perception by applying control theory, optimization methods and learning algorithms. With well-designed algorithms and 
+hardware, I believe the advantages of robots will be maximized and the ability for robots to solve complex problems will far outpace what humans can imagine.  
 
 ## Education
 <strong style="font-size:1.2em">Southern University of Science and Technology</strong><br>
@@ -17,7 +18,7 @@ I'm broadly interested in robotic control, planning, and perception by applying 
 08/2021 - Present
 <ul>
 <li>Realized real-time plane segmentation, polygonal approximation and convex partitioning algorithms for point cloud data from depth camera.</li>
-<li>On going...</li>
+<li>Implementing footprint planning for quadruped robot by mixed integer optimization.</li>
 </ul>
 <img src="/Pictures/Plane.png" width="360" height="199"/>
 </details>
